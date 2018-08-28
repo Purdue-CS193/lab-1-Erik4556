@@ -6,6 +6,11 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 ### Markdown
 
+# Erik Searle's first CS193 Lab
+- Favorite things about CS193
+- One class a week
+- Practical skill building
+- Helpful TAs
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
